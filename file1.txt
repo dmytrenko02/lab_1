@@ -1,8 +1,4 @@
 first line
 second line
 third line
-<<<<<<< HEAD
-forth line
-=======
-hgjhgfhdgfh
->>>>>>> 3a0426e8d7bf3067b787097dd91be6ab605ff27f
+
