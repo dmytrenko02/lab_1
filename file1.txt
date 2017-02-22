@@ -1,6 +1,1 @@
 first line
-second line
-thrid line
-forth line
-fifth line
-
